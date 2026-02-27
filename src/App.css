@@ -2,11 +2,12 @@ body {
   margin: 0;
 }
 header {
-  background-color: #06151A;
-  padding: 32px;
+  background-color: #06151a;
+  padding: 24px;
   display: flex;
   justify-content: center;
 }
+
 .container {
   width: 1000px;
   max-width: 90%;
