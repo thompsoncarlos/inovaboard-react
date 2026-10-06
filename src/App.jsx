@@ -21,7 +21,7 @@ function App() {
     },
     {
       id: 4,
-      nome: "inteligência artificial`",
+      nome: "inteligência artificial",
     },
     {
       id: 5,
